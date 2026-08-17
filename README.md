@@ -2,6 +2,14 @@
 
 An AI/ML-powered agricultural decision-support system that recommends suitable crops and fertilizers based on soil and environmental conditions.
 
+## 🖥️ Application Preview
+
+The project includes an interactive Streamlit dashboard for crop and fertilizer recommendations.
+
+### 🌱 Smart Agriculture Dashboard
+
+![Smart Agriculture Dashboard](screenshots/dashboard.png)
+
 ## 🚀 Features
 
 - 🌾 Crop Recommendation
